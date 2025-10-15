@@ -1,5 +1,6 @@
 # Roggy-s-Cars-Uncovering-Patterns-in-Car-Sales.
 This repository tells us about factors influencing the prices of cars. This project analyzes car sales data in order to finetune out trends and patterns in pricing so as to understand what drives the key determinants of the cost of cars. 
+
 Roggy’s Cars: Uncovering Patterns in Car Sales.
 
 <img width="808" height="402" alt="CAR SALES DASHBOARD" src="https://github.com/user-attachments/assets/0460a30b-d70a-4823-940e-82528592e5fd" />
@@ -13,6 +14,7 @@ Objectives:
  1. To identify determinants affecting car prices.
 2. To understand customer preferences.
 3. To find out which cars are top sellers and why.
+
 Methodology:
 The next step taken for this analysis was to input the data in a pivot table to find the relationship between variables.
 
